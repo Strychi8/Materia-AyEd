@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1649538427 source:c:\users\tomas\onedrive\documentos\dispositivostecnologicos\main.cpp
+	<iostream>
+	"dispositivos.h"
+	"persona.h"
+	"fechaNacimiento.h"
+	"empleados.h"
+
+1649530667 c:\users\tomas\onedrive\documentos\dispositivostecnologicos\dispositivos.h
+
+1649530851 source:c:\users\tomas\onedrive\documentos\dispositivostecnologicos\dispositivos.cpp
+	<iostream>
+	"dispositivos.h"
+	"cstring"
+
+1649524121 c:\users\tomas\onedrive\documentos\dispositivostecnologicos\persona.h
+
+1649536702 source:c:\users\tomas\onedrive\documentos\dispositivostecnologicos\persona.cpp
+	"iostream"
+	"persona.h"
+	"dispositivos.h"
+	"fechaNacimiento.h"
+	<cstring>
+
+1649538215 source:c:\users\tomas\onedrive\documentos\dispositivostecnologicos\fechanacimiento.cpp
+	"iostream"
+	"fechaNacimiento.h"
+	<cstring>
+
+1649536236 c:\users\tomas\onedrive\documentos\dispositivostecnologicos\fechanacimiento.h
+
+1649516733 c:\users\tomas\onedrive\documentos\dispositivostecnologicos\empleados.h
+
+1649529777 source:c:\users\tomas\onedrive\documentos\dispositivostecnologicos\empleados.cpp
+	"iostream"
+	"persona.h"
+	"empleados.h"
+	<cstring>
+
+1651530625 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\dispositivostecnologicos\dispositivos.cpp
+	<iostream>
+	"dispositivos.h"
+	"cstring"
+
+1651533627 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\dispositivostecnologicos\dispositivos.h
+
+1649538686 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\dispositivostecnologicos\empleados.cpp
+	"iostream"
+	"persona.h"
+	"empleados.h"
+	<cstring>
+
+1651532853 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\dispositivostecnologicos\persona.h
+	"fechaNacimiento.h"
+	"../dispositivosTecnologicos/dispositivos.h"
+
+1649516733 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\dispositivostecnologicos\empleados.h
+
+1651533832 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\dispositivostecnologicos\main.cpp
+	<iostream>
+	"dispositivos.h"
+	"persona.h"
+	"fechaNacimiento.h"
+	"empleados.h"
+
+1651528674 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\dispositivostecnologicos\fechanacimiento.h
+
+1651528674 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\dispositivostecnologicos\fechanacimiento.cpp
+	"iostream"
+	"fechaNacimiento.h"
+	<cstring>
+
+1651533466 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\dispositivostecnologicos\persona.cpp
+	"iostream"
+	"persona.h"
+	<cstring>
+

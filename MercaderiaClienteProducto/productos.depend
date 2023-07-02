@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1649713627 source:c:\users\tomas\onedrive\documentos\productos\main.cpp
+	<iostream>
+	"productos.h"
+	"factura.h"
+	"cliente.h"
+	"detalle.h"
+
+1649714063 source:c:\users\tomas\onedrive\documentos\productos\productos.cpp
+	<iostream>
+	"productos.h"
+	"detalle.h"
+	<cstring>
+
+1649689130 c:\users\tomas\onedrive\documentos\productos\productos.h
+
+1649716483 c:\users\tomas\onedrive\documentos\productos\factura.h
+	"cliente.h"
+	"detalle.h"
+
+1649713436 c:\users\tomas\onedrive\documentos\productos\cliente.h
+
+1649713439 c:\users\tomas\onedrive\documentos\productos\detalle.h
+
+1649713466 source:c:\users\tomas\onedrive\documentos\productos\cliente.cpp
+	<iostream>
+	"cliente.h"
+	<cstring>
+
+1649714063 source:c:\users\tomas\onedrive\documentos\productos\detalle.cpp
+	<iostream>
+	"productos.h"
+	"detalle.h"
+	<cstring>
+
+1649716756 source:c:\users\tomas\onedrive\documentos\productos\factura.cpp
+	<iostream>
+	"productos.h"
+	"factura.h"
+	<cstring>
+
