@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650308951 source:c:\users\tomas\onedrive\documentos\libreriafuncionesvectores\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+
