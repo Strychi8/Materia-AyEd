@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1652131206 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\colasypilas\main.cpp
+	<iostream>
+	"Colas.h"
+	"Pilas.h"
+
+1652131136 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\colasypilas\colas.h
+
+1653578209 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\colasypilas\colas.cpp
+	<iostream>
+	"Colas.h"
+
+1652131136 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\colasypilas\pilas.h
+
+1653950794 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\colasypilas\pilas.cpp
+	<iostream>
+	"Pilas.h"
+

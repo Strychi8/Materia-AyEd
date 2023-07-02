@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1651676037 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\equipaje.cpp
+	"Equipaje.h"
+
+1651675999 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\equipaje.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1651675999 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\main.cpp
+	<iostream>
+	"Lista.h"
+	"Cola.h"
+	"Pila.h"
+	"Vuelo.h"
+	"Equipaje.h"
+	"Transportador.h"
+
+1651674970 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\lista.h
+
+1651674978 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\cola.h
+
+1651677764 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\pila.h
+
+1651674818 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\vuelo.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1651674818 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\transportador.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1651674818 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\transportador.cpp
+	"Transportador.h"
+	"Pila.h"
+
+1651674818 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\vuelo.cpp
+	"Vuelo.h"
+	"Pila.h"
+
+1651674818 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\cola.cpp
+	"Cola.h"
+
+1651674818 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\lista.cpp
+	"Lista.h"
+
+1651674818 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listaspilascolas\pila.cpp
+	"Pila.h"
+

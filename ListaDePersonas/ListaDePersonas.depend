@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1650928460 source:c:\users\tomas\onedrive\documentos\listadepersonas\persona.cpp
+	<iostream>
+	"persona.h"
+	<cstring>
+
+1650924343 c:\users\tomas\onedrive\documentos\listadepersonas\persona.h
+
+1650928460 source:c:\users\tomas\onedrive\documentos\listadepersonas\listaenc.cpp
+	<iostream>
+	"persona.h"
+	"listaEnc.h"
+
+1651017169 c:\users\tomas\onedrive\documentos\listadepersonas\listaenc.h
+
+1651017169 source:c:\users\tomas\onedrive\documentos\listadepersonas\main.cpp
+	<iostream>
+	"persona.h"
+	"listaEnc.h"
+
+1651526552 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listadepersonas\main.cpp
+	<iostream>
+	"dato.h"
+	"persona.h"
+	"listaEnc.h"
+
+1651505186 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listadepersonas\persona.h
+
+1651526447 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listadepersonas\listaenc.h
+	"dato.h"
+
+1651505224 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listadepersonas\persona.cpp
+	<iostream>
+	"persona.h"
+	<cstring>
+
+1651526457 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listadepersonas\listaenc.cpp
+	<iostream>
+	"listaEnc.h"
+	"cstring"
+
+1651526335 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listadepersonas\dato.cpp
+	<iostream>
+	<cstring>
+	"dato.h"
+
+1651526335 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listadepersonas\dato.h
+	"persona.h"
+

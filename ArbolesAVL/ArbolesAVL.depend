@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1658004422 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\arbolesavl\main.cpp
+	<iostream>
+	"arbolAVL.h"
+
+1653150030 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\arbolesavl\arbolavl.h
+
+1658004849 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\arbolesavl\arbolavl.cpp
+	<iostream>
+	"arbolAVL.h"
+

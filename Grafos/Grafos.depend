@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1657832311 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\grafos\main.cpp
+	<iostream>
+	"grafo.h"
+	"cola.h"
+
+1657812105 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\grafos\grafo.h
+
+1657832135 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\grafos\grafo.cpp
+	<iostream>
+	<cstring>
+	"grafo.h"
+	"cola.h"
+
+1657814434 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\grafos\cola.h
+
+1657814311 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\grafos\cola.cpp
+	<iostream>
+	"cola.h"
+

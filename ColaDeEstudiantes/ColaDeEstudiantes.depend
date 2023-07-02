@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1652136886 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\coladeestudiantes\cola.cpp
+	<iostream>
+	"cola.h"
+
+1652136756 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\coladeestudiantes\cola.h
+	"estudiante.h"
+
+1652137023 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\coladeestudiantes\main.cpp
+	<iostream>
+	"cola.h"
+	"estudiante.h"
+
+1652134463 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\coladeestudiantes\estudiante.h
+
+1652136886 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\coladeestudiantes\estudiante.cpp
+	<iostream>
+	<cstring>
+	"estudiante.h"
+

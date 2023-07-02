@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1652140229 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\pilademonedas\pila.cpp
+	<iostream>
+	"pila.h"
+
+1688305637 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\pilademonedas\moneda.cpp
+	<iostream>
+	<cstring>
+	"moneda.h"
+
+1688305640 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\pilademonedas\moneda.h
+
+1688079514 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\pilademonedas\main.cpp
+	<iostream>
+	"moneda.h"
+	"pila.h"
+
+1652139619 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\pilademonedas\pila.h
+	"moneda.h"
+

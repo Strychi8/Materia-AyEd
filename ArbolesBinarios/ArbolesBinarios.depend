@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1657384493 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\arbolesbinarios\arbol.cpp
+	<iostream>
+	"arbol.h"
+
+1657384493 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\arbolesbinarios\arbol.h
+
+1688308386 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\arbolesbinarios\main.cpp
+	<iostream>
+	"arbol.h"
+

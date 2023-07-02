@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1651016182 source:c:\users\tomas\onedrive\documentos\listasayed\main.cpp
+	<iostream>
+	"listaEnc.h"
+
+1651016198 source:c:\users\tomas\onedrive\documentos\listasayed\listaenc.cpp
+	<iostream>
+	"listaEnc.h"
+
+1651015910 c:\users\tomas\onedrive\documentos\listasayed\listaenc.h
+
+1654527660 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listasayed\listaenc.cpp
+	<iostream>
+	"listaEnc.h"
+
+1653836802 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listasayed\listaenc.h
+
+1654527676 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listasayed\main.cpp
+	<iostream>
+	"listaEnc.h"
+

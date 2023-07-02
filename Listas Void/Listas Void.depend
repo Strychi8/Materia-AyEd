@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1653746798 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listas void\listavoid.cpp
+	<iostream>
+	"listaVoid.h"
+	"persona.h"
+
+1653754207 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listas void\listavoid.h
+
+1653164391 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listas void\main.cpp
+	<iostream>
+	"listaVoid.h"
+	"persona.h"
+
+1653162960 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listas void\persona.h
+
+1653163010 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\listas void\persona.cpp
+	<iostream>
+	"persona.h"
+	<cstring>
+
