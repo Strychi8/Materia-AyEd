@@ -1,0 +1,60 @@
+UNIDAD 0 - TDA
+
+1) Construir un TDA completo que permita administrar Dispositivos Tecnológicos (tipo, marca, precio, memoria, etc).
+
+2) Crear un TDA completo para trabajar con una Persona. Una vez creado relacionar a la persona con varios 
+dispositivos tecnológicos. 
+
+3) Crear un TDA completo para administrar fechas. Una vez terminado hacer que la persona del ejercicio 2 
+tenga una fecha de nacimiento.
+
+4) Crear un TDA completo que permita trabajar con Empleados, donde los empleados tienen las mismas 
+variables internas de la Persona del ejercicio 2, pero también tienen un legajo, un sueldo  y una empresa. 
+¿Cómo generaría el TDA para reutilizar todo lo anterior?.
+
+5) Crear un TDA completo que permita trabajar con números complejos. Se tiene que poder implementar 
+la suma, resta, multiplicación, división, módulo y conjugado de un número complejo. No puede faltar el mostrarComplejo.
+
+6) Ejercicio cuatrimestral, para irlo mejorando a medida que vemos más temas. Crear un programa que permita generar 
+facturas para ventas de un comercio.
+
+- El comercio vende Productos (alimenticios), de los que queremos saber nombre, precio, código y cantidad disponible.
+
+- Al realizar una compra tenemos que facturar, de la Factura nos interesa saber su número, la fecha, los datos del 
+Cliente (dni, nombre) y el Detalle de la compra ( nroDetalle, producto, cantidad, precio y precio total). 
+Una vez generados todos los detalles la Factura tiene que tener un precio final.
+
+- Una factura tiene muchos detalles, proponemos solucionar ese problema con un array, en la próxima unidad lo
+haremos mucho mejor.
+
+- Generar un mostrarFactura donde se vean todos los datos impactados en la compra.
+
+UNIDAD 1 - LISTAS
+
+10) Crear un programa que permita enlistar a las Personas que asistieron en un Estadio de fútbol, 
+además cada Persona tiene una lista de Motivos por los que asistir al estadio. (2 o 3 personas con 2 o 3 motivos,
+lo importante son las dos listas con Void). 
+
+UNIDAD 2 - PILAS Y COLAS
+1) Crear un programa que permita generar una Cola de Estudiantes para ingresar al sistema Guarani, 
+la cola no puede superar los 5 estudiantes. 
+
+2) Analizando los ejemplos de Colas, realizar las primitivas de Pilas. 
+
+3) Crear una pila de enteros, e irlos desapilando y mostrando.
+
+4) Crear una pila de Monedas (valor, color, año), e irlas sacando una por una, las monedas tienen un valor y un año.
+
+
+UNIDAD 3 - ARBOLES
+
+1) Construir un árbol cualquiera, donde en cada nodo se guarde un entero aleatorio cualquiera, 
+se irán insertando en el árbol nodos con números aleatorios, el primer nodo será la raíz. 
+Hacerlo con por lo menos 10 números. Mostrar cómo quedó el árbol (de la manera que más fácil le resulte). 
+
+2) Del árbol anterior, o de cualquier otro mostrar cómo quedarían los 3 recorridos (IN-PRE-POST/ORDEN). 
+Explicar en qué casos se usa cada uno. 
+
+3) Crear una función para calcular la altura del árbol del ejercicio anterior.
+
+

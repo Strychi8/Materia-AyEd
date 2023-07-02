@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649543884 source:c:\users\tomas\onedrive\documentos\nroscomplejos\nroscomplejos.cpp
+	<iostream>
+	"nrosComplejos.h"
+	<cstring>
+
+1649543910 c:\users\tomas\onedrive\documentos\nroscomplejos\nroscomplejos.h
+
+1649544248 source:c:\users\tomas\onedrive\documentos\nroscomplejos\main.cpp
+	<iostream>
+	"nrosComplejos.h"
+

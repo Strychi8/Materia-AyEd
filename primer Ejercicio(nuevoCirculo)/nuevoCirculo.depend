@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1648912850 source:c:\users\tomas\onedrive\documentos\nuevocirculo\circulo.cpp
+	"circulo.h"
+
+1648910506 c:\users\tomas\onedrive\documentos\nuevocirculo\circulo.h
+
+1648916050 source:c:\users\tomas\onedrive\documentos\nuevocirculo\main.cpp
+	<iostream>
+	"circulo.h"
+
+1649014422 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\nuevocirculo\circulo.cpp
+	"circulo.h"
+
+1649013404 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\nuevocirculo\circulo.h
+
+1649013404 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\nuevocirculo\cilindro.c
+	"cilindro.h"
+	"circulo.h"
+
+1649013429 c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\nuevocirculo\cilindro.h
+
+1649015102 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\nuevocirculo\main.cpp
+	<iostream>
+	"circulo.h"
+	"cilindro.h"
+
+1649015244 source:c:\users\tomas\onedrive\documentos\algoritmo y estructura de datos\nuevocirculo\cilindro.cpp
+	"cilindro.h"
+

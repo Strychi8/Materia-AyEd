@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1652878073 source:d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\lenguajes\c\listasvoidestadiopersonas\listasvoidpersona\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaVoid.h"
+	"persona.h"
+	"motivos.h"
+	"estadio.h"
+
+1652878145 source:d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\lenguajes\c\listasvoidestadiopersonas\listasvoidpersona\persona.c
+	"persona.h"
+	"listaVoid.h"
+	"motivos.h"
+	<stdio.h>
+	<stdlib.h>
+
+1652806997 d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\lenguajes\c\listasvoidestadiopersonas\listasvoidpersona\persona.h
+	"listaVoid.h"
+
+1652806407 source:d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\lenguajes\c\listasvoidestadiopersonas\listasvoidpersona\listavoid.c
+	"listaVoid.h"
+	"persona.h"
+	"motivos.h"
+	<stdlib.h>
+	<string.h>
+
+1652806280 d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\lenguajes\c\listasvoidestadiopersonas\listasvoidpersona\listavoid.h
+
+1652806365 source:d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\lenguajes\c\listasvoidestadiopersonas\listasvoidpersona\motivos.c
+	"motivos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652806196 d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\lenguajes\c\listasvoidestadiopersonas\listasvoidpersona\motivos.h
+
+1652807841 source:d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\lenguajes\c\listasvoidestadiopersonas\listasvoidpersona\estadui.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaVoid.h"
+	"persona.h"
+	"motivos.h"
+	"estadio.h"
+
+1652876720 d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\lenguajes\c\listasvoidestadiopersonas\listasvoidpersona\estadio.h
+
+1652877653 source:d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\lenguajes\c\listasvoidestadiopersonas\listasvoidpersona\estadio.c
+	"persona.h"
+	"listaVoid.h"
+	"motivos.h"
+	"estadio.h"
+	<stdio.h>
+	<stdlib.h>
+
